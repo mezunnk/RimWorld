@@ -1,52 +1,52 @@
-﻿artwork
-art
-work
+﻿obra de arte
+arte
+trabalho
 item
-piece
+peça
 
-oeuvre
-expression
-attempt
-untitled
-titled
+obra
+expressão
+tentativa
+sem título
+intitulado
 
-shape
-form
-image
-shot
-picture
-portrait
-still
+forma
+formato
+imagem
+foto
+quadro
+retrato
+natureza-morta
 
-poem
+poema
 
-lullaby
-song
-tune
-rhythm
-beat
+canção de ninar
+música
+melodia
+ritmo
+batida
 
-codex
-book
+códice
+livro
 
-cuboid
-circloid
-parabolic
-cubic
-curvelike
-curve
+cuboide
+circular
+parabólico
+cúbico
+curvilíneo
+curva
 
-mirror
-day
-vomit
-sweat
-shadow
+espelho
+dia
+vômito
+suor
+sombra
 
-freedom
-vision
-love
-divinity
-wisdom
-shame
-death
-darkness
+liberdade
+visão
+amor
+divindade
+sabedoria
+vergonha
+morte
+escuridão

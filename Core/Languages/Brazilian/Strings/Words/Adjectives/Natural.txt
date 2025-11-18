@@ -1,22 +1,22 @@
 // Things that natural objects could conceivably be (with some flex for poetry)
 // Animals, body parts
 
-big
-rough
-harsh
-tall
-sharp
-craggy
-free
-prime
-small
-old
-round
-strange
-wise
-icy
-bad
-good
-far
-dead
-hardy
+grande
+áspero
+severo
+alto
+afiado
+rochoso
+livre
+primordial
+pequeno
+velho
+arredondado
+estranho
+sábio
+gelado
+mau
+bom
+distante
+morto
+resistente

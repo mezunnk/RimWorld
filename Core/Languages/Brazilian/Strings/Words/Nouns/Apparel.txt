@@ -1,27 +1,28 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
-parka
+﻿
+camisa
+camisa social
+camisa formal
+jaqueta
+capa de chuva
+terno
+vestido de gala
+parca
 duster
-space suit
-power armor suit
+traje espacial
+armadura potenciada
 
-bow tie
-necktie
-belt
-jock strap
+gravata borboleta
+gravata
+cinto
+suspensório
 
-hat
-bowler hat
-baseball cap
-tuque
-top hat
+chapéu
+chapéu coco
+boné
+gorro
+cartola
 
-shoe
-boot
-sandal
+sapato
+bota
+sandália
 
