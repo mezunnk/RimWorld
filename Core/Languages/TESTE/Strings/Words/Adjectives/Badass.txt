@@ -1,40 +1,41 @@
-﻿notorious
-deadly
-deep
-poison
-jagged
-loyal
-unstoppable
+﻿
+notório
+letal
+profundo
+veneno
+serrilhado
+leal
+imparável
 animal
-bloody
-stonefaced
-ghostface
-suicidal
-manic
-crazy
-wild
-burning
-murderous
-fearful
-terrifying
-smoky
-nutty
-killer
-dark
-furious
-angry
-savage
-blank
-emotionless
-mindless
-awesome
-epic
-murderous
-supreme
-extreme
-mad
-sharp
-bladed
+sangrento
+impassível
+cara de fantasma
+suicida
+maníaco
+louco
+selvagem
+ardente
+assassino
+temeroso
+aterrorizante
+esfumaçado
+maluco
+matador
+sombrio
+furioso
+raivoso
+selvagem
+vazio
+sem emoção
+sem mente
+incrível
+épico
+homicida
+supremo
+extremo
+insano
+afiado
+lâminado
 
 
 

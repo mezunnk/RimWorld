@@ -1,17 +1,17 @@
-﻿north
-northeast
-east
-southeast
-south
-southwest
-west
-northwest
+﻿norte
+nordeste
+leste
+sudeste
+sul
+sudoeste
+oeste
+noroeste
 
-northern
-northeastern
-eastern
-southeastern
-southern
-southwestern
-western
-northwestern
+do norte
+do nordeste
+do leste
+do sudeste
+do sul
+do sudoeste
+do oeste
+do noroeste
