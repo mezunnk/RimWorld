@@ -5,52 +5,52 @@
   <LetterHour>h</LetterHour>
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
-  <LetterYear>y</LetterYear>
+  <LetterYear>a</LetterYear>
   
   <AM>AM</AM>
   <PM>PM</PM>
 
-  <DaysLower>days</DaysLower>
-  <HoursLower>hours</HoursLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>dias</DaysLower>
+  <HoursLower>horas</HoursLower>
+  <SecondsLower>segundos</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
-  <SeasonPermanentSummer>permanent summer</SeasonPermanentSummer>
-  <SeasonPermanentWinter>permanent winter</SeasonPermanentWinter>
+  <SeasonSpring>primavera</SeasonSpring>
+  <SeasonSummer>verão</SeasonSummer>
+  <SeasonFall>outono</SeasonFall>
+  <SeasonWinter>inverno</SeasonWinter>
+  <SeasonPermanentSummer>verão permanente</SeasonPermanentSummer>
+  <SeasonPermanentWinter>inverno permanente</SeasonPermanentWinter>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumAprimay>Abrimaio</QuadrumAprimay>
+  <QuadrumJugust>Julhagosto</QuadrumJugust>
+  <QuadrumSeptober>Setumbro</QuadrumSeptober>
+  <QuadrumDecembary>Dejaneiro</QuadrumDecembary>
 
-  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
-  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
-  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
-  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
+  <QuadrumAprimay_Short>Abm</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>Jhg</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>set</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>Dej</QuadrumDecembary_Short>
   
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <Born>Nascido: {0}</Born>
+  <AgeChronological>Idade cronológica: {0} anos, {1} quadrums, {2} dias</AgeChronological>
+  <AgeBiological>Idade biológica: {0} anos, {1} quadrums, {2} dias</AgeBiological>
 
   <!-- Date periods -->
-  <Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
+  <Period1Year>1 ano</Period1Year>
+  <PeriodYears>{0} anos</PeriodYears>
   <Period1Quadrum>1 quadrum</Period1Quadrum>
   <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
-  <Period1Second>1 second</Period1Second>
-  <PeriodSeconds>{0} seconds</PeriodSeconds>
+  <Period1Day>1 dia</Period1Day>
+  <PeriodDays>{0} dias</PeriodDays>
+  <Period1Hour>1 hora</Period1Hour>
+  <PeriodHours>{0} horas</PeriodHours>
+  <Period1Second>1 segundo</Period1Second>
+  <PeriodSeconds>{0} segundos</PeriodSeconds>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
-  <TimeAgo>{0} ago</TimeAgo>
+  <Started>Iniciado</Started>
+  <Lasted>Durou</Lasted>
+  <OccurredTimeAgo>ocorreu há {0}</OccurredTimeAgo>
+  <TimeAgo>há {0}</TimeAgo>
   
 </LanguageData>

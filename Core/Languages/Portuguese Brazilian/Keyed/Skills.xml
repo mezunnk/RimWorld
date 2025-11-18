@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <SkillLevel>skill level</SkillLevel>
-  <ProgressToNextLevel>Progress to next learned level</ProgressToNextLevel>
-  <Experience>Experience</Experience>
-  <Passion>Passion</Passion>
-  <PassionNone>No passion</PassionNone>
-  <PassionMinor>Passion</PassionMinor>
-  <PassionMajor>Burning passion</PassionMajor>
-  <LearningSpeed>Learning speed</LearningSpeed>
-  <LearnedMaxToday>Learned max today ({0}/{1}, further learning multiplied by {2})</LearnedMaxToday>
-  <ChildrenLearn>Children learn skills by watching adults work and by taking lessons at a lesson desk.</ChildrenLearn>
-  <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
-  <SkillMax>MAX</SkillMax>
-  <LearnedLevel>Learned level</LearnedLevel>
-  <NegativeLevelAdjustedToZero>Negative level adjusted to zero.</NegativeLevelAdjustedToZero>
-  <LevelCappedAtMax>Level capped at {0}.</LevelCappedAtMax>
-  <GeneLabelWithDesc>{GENE_label} gene</GeneLabelWithDesc>
-  <TraitLabelWithDesc>{TRAITLABEL} trait</TraitLabelWithDesc>
+  <Level>Nível</Level>
+  <SkillLevel>nível de habilidade</SkillLevel>
+  <ProgressToNextLevel>Progresso para o próximo nível aprendido</ProgressToNextLevel>
+  <Experience>Experiência</Experience>
+  <Passion>Paixão</Passion>
+  <PassionNone>Sem paixão</PassionNone>
+  <PassionMinor>Paixão</PassionMinor>
+  <PassionMajor>Paixão ardente</PassionMajor>
+  <LearningSpeed>Velocidade de aprendizado</LearningSpeed>
+  <LearnedMaxToday>Máximo aprendido hoje ({0}/{1}, aprendizado adicional multiplicado por {2})</LearnedMaxToday>
+  <ChildrenLearn>Crianças aprendem habilidades observando adultos trabalhando e tendo aulas na mesa de lições.</ChildrenLearn>
+  <EffectsAtLevel>Efeitos no nível {0}</EffectsAtLevel>
+  <SkillMax>MÁX</SkillMax>
+  <LearnedLevel>Nível aprendido</LearnedLevel>
+  <NegativeLevelAdjustedToZero>Nível negativo ajustado para zero.</NegativeLevelAdjustedToZero>
+  <LevelCappedAtMax>Nível limitado a {0}.</LevelCappedAtMax>
+  <GeneLabelWithDesc>gene {GENE_label}</GeneLabelWithDesc>
+  <TraitLabelWithDesc>traço {TRAITLABEL}</TraitLabelWithDesc>
 
-  <Skill0>Barely heard of it</Skill0>
-  <Skill1>Utter beginner</Skill1>
-  <Skill2>Beginner</Skill2>
-  <Skill3>Basic familiarity</Skill3>
-  <Skill4>Some familiarity</Skill4>
-  <Skill5>Significant familiarity</Skill5>
-  <Skill6>Capable amateur</Skill6>
-  <Skill7>Weak professional</Skill7>
-  <Skill8>Employable professional</Skill8>
-  <Skill9>Solid professional</Skill9>
-  <Skill10>Skilled professional</Skill10>
-  <Skill11>Very skilled professional</Skill11>
-  <Skill12>Expert</Skill12>
-  <Skill13>Strong expert</Skill13>
-  <Skill14>Master</Skill14>
-  <Skill15>Strong master</Skill15>
-  <Skill16>Region-known master</Skill16>
-  <Skill17>Region-leading master</Skill17>
-  <Skill18>Planet-known master</Skill18>
-  <Skill19>Planet-leading master</Skill19>
-  <Skill20>Legendary master</Skill20>
+  <Skill0>Mal ouviu falar</Skill0>
+  <Skill1>Totalmente iniciante</Skill1>
+  <Skill2>Iniciante</Skill2>
+  <Skill3>Familiaridade básica</Skill3>
+  <Skill4>Alguma familiaridade</Skill4>
+  <Skill5>Familiaridade significativa</Skill5>
+  <Skill6>Amador capaz</Skill6>
+  <Skill7>Profissional fraco</Skill7>
+  <Skill8>Profissional empregável</Skill8>
+  <Skill9>Profissional sólido</Skill9>
+  <Skill10>Profissional habilidoso</Skill10>
+  <Skill11>Profissional muito habilidoso</Skill11>
+  <Skill12>Especialista</Skill12>
+  <Skill13>Especialista forte</Skill13>
+  <Skill14>Mestre</Skill14>
+  <Skill15>Mestre forte</Skill15>
+  <Skill16>Mestre conhecido na região</Skill16>
+  <Skill17>Mestre líder na região</Skill17>
+  <Skill18>Mestre conhecido no planeta</Skill18>
+  <Skill19>Mestre líder no planeta</Skill19>
+  <Skill20>Mestre lendário</Skill20>
   
 </LanguageData>
