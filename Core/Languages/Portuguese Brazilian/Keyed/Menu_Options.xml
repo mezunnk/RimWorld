@@ -2,96 +2,96 @@
 <LanguageData>
   
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuals</Audiovisuals>
-  <MasterVolume>Master volume</MasterVolume>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
-  <AmbientVolume>Ambience volume</AmbientVolume>
-  <UIVolume>UI volume</UIVolume>
-  <MasterVolumeTooltip>Affects all sounds.</MasterVolumeTooltip>
-  <GameVolumeTooltip>Affects all in world sounds, e.g. chopping trees, building walls.</GameVolumeTooltip>
-  <MusicVolumeTooltip>Affects music.</MusicVolumeTooltip>
-  <AmbientVolumeTooltip>Affects all ambient sounds, e.g. wind, insects.</AmbientVolumeTooltip>
-  <UIVolumeTooltip>Affects all interface sounds, e.g. button clicks, messages.</UIVolumeTooltip>
-  <Antialiasing>Anti-aliasing</Antialiasing>
+  <Audiovisuals>Áudio e Vídeo</Audiovisuals>
+  <MasterVolume>Volume principal</MasterVolume>
+  <GameVolume>Volume do jogo</GameVolume>
+  <MusicVolume>Volume da música</MusicVolume>
+  <AmbientVolume>Volume ambiente</AmbientVolume>
+  <UIVolume>Volume da interface</UIVolume>
+  <MasterVolumeTooltip>Afeta todos os sons.</MasterVolumeTooltip>
+  <GameVolumeTooltip>Afeta todos os sons do mundo, ex: cortar árvores, construir paredes.</GameVolumeTooltip>
+  <MusicVolumeTooltip>Afeta a música.</MusicVolumeTooltip>
+  <AmbientVolumeTooltip>Afeta todos os sons ambientes, ex: vento, insetos.</AmbientVolumeTooltip>
+  <UIVolumeTooltip>Afeta todos os sons da interface, ex: cliques, mensagens.</UIVolumeTooltip>
+  <Antialiasing>Suavização de serrilhado</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <ZoomToMouse>Zoom to mouse</ZoomToMouse>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-  <AutomaticPauseModeSetting>Pause on letter</AutomaticPauseModeSetting>
-  <CustomCursor>Disable game-specific cursor</CustomCursor>
-  <HatsShownOnlyOnMap>Hide hats on UI</HatsShownOnlyOnMap>
-  <UIScale>UI scale</UIScale>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ControllerConfig>Controller configuration</ControllerConfig>
-  <ModifyConfig>Modify</ModifyConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
-  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
-  <SteamDeckKeyboardMode>Keyboard mode</SteamDeckKeyboardMode>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <DisableQuickStartCryptoSickness>Quick start has no cryptosleep sickness</DisableQuickStartCryptoSickness>
-  <StartDevPaletteOn>Start game with dev palette on</StartDevPaletteOn>
-  <OpenLogOnWarnings>Open log on warnings</OpenLogOnWarnings>
-  <CloseLogWindowOnEscape>Close log by pressing cancel</CloseLogWindowOnEscape>
-  <SimulateNotOwningRoyalty>Simulate not owning Royalty</SimulateNotOwningRoyalty>
-  <SimulateNotOwningIdeology>Simulate not owning Ideology</SimulateNotOwningIdeology>
-  <SimulateNotOwningBiotech>Simulate not owning Biotech</SimulateNotOwningBiotech>
-  <SimulateNotOwningAnomaly>Simulate not owning Anomaly</SimulateNotOwningAnomaly>
-  <LogVerbose>Verbose logging</LogVerbose>
-  <SaveGameDataFolder>Save data folder</SaveGameDataFolder>
-  <SaveGameDataLocation>Save data location</SaveGameDataLocation>
-  <LogFileFolder>Log file folder</LogFileFolder>
-  <LogFileLocation>Log file location</LogFileLocation>
-  <OpenFolder>Open</OpenFolder>
-  <ShowFolder>Show</ShowFolder>
-  <NamesYouWantToSee>Preferred "Name in Game" characters</NamesYouWantToSee>
-  <NamesYouWantToSeeSubText>These characters will be more likely to appear randomly during play.</NamesYouWantToSeeSubText>
-  <AddName>Add name</AddName>
-  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Storyteller settings</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <AutosaveIntervalTooltip>The number of in game days between each auto save.</AutosaveIntervalTooltip>
-  <TemperatureMode>Temperature unit</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <TwelveHourClockMode>Use 12 hour clock</TwelveHourClockMode>
-  <DisableTinyText>Disable tiny font</DisableTinyText>
-  <MaxNumberOfPlayerSettlements>Maximum number of colonies: {0}</MaxNumberOfPlayerSettlements>
-  <AutosavesCount>Autosaves count: {0}</AutosavesCount>
-  <MapDragSensitivity>Map mouse drag sensitivity</MapDragSensitivity>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <EnableTestMapSizes>Enable test map sizes</EnableTestMapSizes>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Mod Settings</ModSettings>
-  <PermanentlyDisableDevMode>Permanently disable development mode</PermanentlyDisableDevMode>
-  <TextureCompression>Texture compression</TextureCompression>
-  <TextureCompression_Tooltip>Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods.</TextureCompression_Tooltip>
-  <SmoothCameraJumps>Smooth camera jumps</SmoothCameraJumps>
-  <SmoothCameraJumpsDesc>When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly.</SmoothCameraJumpsDesc>
+  <EdgeScreenScroll>Rolagem da tela pelo mouse</EdgeScreenScroll>
+  <ZoomToMouse>Zoom no mouse</ZoomToMouse>
+  <PauseOnLoad>Pausar ao carregar</PauseOnLoad>
+  <PauseOnUrgentLetter>Pausar em carta urgente</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>Pausar em carta</AutomaticPauseModeSetting>
+  <CustomCursor>Desabilitar cursor específico do jogo</CustomCursor>
+  <HatsShownOnlyOnMap>Ocultar chapéus na interface</HatsShownOnlyOnMap>
+  <UIScale>Escala da interface</UIScale>
+  <KeyboardConfig>Configuração do teclado</KeyboardConfig>
+  <ControllerConfig>Configuração do controle</ControllerConfig>
+  <ModifyConfig>Modificar</ModifyConfig>
+  <ChooseLanguage>Escolher idioma</ChooseLanguage>
+  <ResetAdaptiveTutor>Reiniciar assistente de aprendizado</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Assistente reiniciado. Todas as lições serão reapresentadas do zero.</AdaptiveTutorIsReset>
+  <SteamDeckKeyboardMode>Modo teclado</SteamDeckKeyboardMode>
+  <RunInBackground>Executar em segundo plano</RunInBackground>
+  <DevelopmentMode>Modo de desenvolvimento</DevelopmentMode>
+  <ResetModsConfigOnCrash>Auto-redefinir mods ao travar</ResetModsConfigOnCrash>
+  <DisableQuickStartCryptoSickness>Início rápido sem doença de criptossono</DisableQuickStartCryptoSickness>
+  <StartDevPaletteOn>Iniciar jogo com paleta dev ativada</StartDevPaletteOn>
+  <OpenLogOnWarnings>Abrir log em avisos</OpenLogOnWarnings>
+  <CloseLogWindowOnEscape>Fechar log ao pressionar cancelar</CloseLogWindowOnEscape>
+  <SimulateNotOwningRoyalty>Simular não possuir Royalty</SimulateNotOwningRoyalty>
+  <SimulateNotOwningIdeology>Simular não possuir Ideology</SimulateNotOwningIdeology>
+  <SimulateNotOwningBiotech>Simular não possuir Biotech</SimulateNotOwningBiotech>
+  <SimulateNotOwningAnomaly>Simular não possuir Anomaly</SimulateNotOwningAnomaly>
+  <LogVerbose>Log detalhado</LogVerbose>
+  <SaveGameDataFolder>Pasta de dados salvos</SaveGameDataFolder>
+  <SaveGameDataLocation>Local dos dados salvos</SaveGameDataLocation>
+  <LogFileFolder>Pasta de logs</LogFileFolder>
+  <LogFileLocation>Local do arquivo de log</LogFileLocation>
+  <OpenFolder>Abrir</OpenFolder>
+  <ShowFolder>Mostrar</ShowFolder>
+  <NamesYouWantToSee>Personagens "Nome no Jogo" preferidos</NamesYouWantToSee>
+  <NamesYouWantToSeeSubText>Esses personagens terão mais chance de aparecer aleatoriamente durante o jogo.</NamesYouWantToSeeSubText>
+  <AddName>Adicionar nome</AddName>
+  <TypeFirstNickOrLastName>Digite o primeiro nome, apelido ou sobrenome.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Esse nome já está na lista de preferidos.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Configurações do contador de histórias</ChangeStoryteller>
+  <AutosaveInterval>Intervalo de salvamento automático</AutosaveInterval>
+  <AutosaveIntervalTooltip>Número de dias no jogo entre cada salvamento automático.</AutosaveIntervalTooltip>
+  <TemperatureMode>Unidade de temperatura</TemperatureMode>
+  <ShowRealtimeClock>Mostrar relógio em tempo real</ShowRealtimeClock>
+  <TwelveHourClockMode>Usar relógio de 12 horas</TwelveHourClockMode>
+  <DisableTinyText>Desabilitar fonte pequena</DisableTinyText>
+  <MaxNumberOfPlayerSettlements>Número máximo de colônias: {0}</MaxNumberOfPlayerSettlements>
+  <AutosavesCount>Quantidade de autosaves: {0}</AutosavesCount>
+  <MapDragSensitivity>Sensibilidade do arrasto do mapa</MapDragSensitivity>
+  <PlantWindSway>Movimento do vento nas plantas</PlantWindSway>
+  <EnableTestMapSizes>Habilitar tamanhos de mapa de teste</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>O intervalo máximo de autosave no modo permadeath é {0} dia.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Configurações de Mods</ModSettings>
+  <PermanentlyDisableDevMode>Desabilitar permanentemente o modo de desenvolvimento</PermanentlyDisableDevMode>
+  <TextureCompression>Compressão de textura</TextureCompression>
+  <TextureCompression_Tooltip>Desativar a compressão de textura usará muito mais memória de vídeo, mas deixará as texturas um pouco melhores em áreas detalhadas. Só desative se tiver muita memória de vídeo disponível.\n\nUsar certos mods pode consumir muito mais memória de vídeo, então talvez precise ativar esta opção ao adicionar mods.</TextureCompression_Tooltip>
+  <SmoothCameraJumps>Movimentos suaves da câmera</SmoothCameraJumps>
+  <SmoothCameraJumpsDesc>Quando ativado, a câmera irá deslizar rapidamente ao focar em um novo local. Quando desativado, a câmera irá pular instantaneamente.</SmoothCameraJumpsDesc>
 
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <BorderlessFullscreen>Borderless fullscreen</BorderlessFullscreen>
-  <BorderlessFullscreenInstructions>To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors.</BorderlessFullscreenInstructions>
+  <Resolution>Resolução</Resolution>
+  <Fullscreen>Tela cheia</Fullscreen>
+  <BorderlessFullscreen>Tela cheia sem bordas</BorderlessFullscreen>
+  <BorderlessFullscreenInstructions>Para rodar RimWorld em modo tela cheia sem bordas:\n\n1) Abra o Steam\n2) Vá na aba "Biblioteca" no topo\n3) Encontre RimWorld na lista e clique com o botão direito\n4) Escolha "Propriedades..."\n5) Adicione "-popupwindow" (sem aspas) em "Opções de inicialização" na aba "Geral"\n6) Reinicie o jogo\n7) Se feito corretamente, você não verá esta janela\n\nDica: Use Windows + Shift + Esquerda/Direita para mover a janela entre os monitores.</BorderlessFullscreenInstructions>
 
   <!-- Mods -->
-  <SelectMod>Select mod...</SelectMod>
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <SelectMod>Selecionar mod...</SelectMod>
+  <NoConfigurableMods>Nenhum mod configurável carregado.</NoConfigurableMods>
   
   <!-- Options reset -->
-  <RestoreToDefaultSettingsLabel>Restore all settings to default</RestoreToDefaultSettingsLabel>
-  <RestoreToDefaultSettings>Restore defaults</RestoreToDefaultSettings>
-  <ResetAndRestart>All settings have been reset. The game will now restart automatically.</ResetAndRestart>
-  <ResetAndRestartConfirmationDialog>All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue?</ResetAndRestartConfirmationDialog>
-  <ChangedTextureCompressionRestart>Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue?</ChangedTextureCompressionRestart>
+  <RestoreToDefaultSettingsLabel>Restaurar todas as configurações</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettings>Restaurar padrões</RestoreToDefaultSettings>
+  <ResetAndRestart>Todas as configurações foram restauradas. O jogo será reiniciado automaticamente.</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>Todas as configurações serão restauradas para o padrão e o jogo será reiniciado. Progresso não salvo será perdido.\n\nContinuar?</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>Mudar a compressão de textura requer reiniciar o jogo. Progresso não salvo será perdido.\n\nContinuar?</ChangedTextureCompressionRestart>
   
   <!-- Background image -->
-  <SetBackgroundImage>Menu background</SetBackgroundImage>
+  <SetBackgroundImage>Plano de fundo do menu</SetBackgroundImage>
 
 </LanguageData>
