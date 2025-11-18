@@ -2,45 +2,45 @@
 <LanguageData>
 
   <!-- Main menu-->
-  <MainPageCredit>A story generator by Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>Um gerador de histórias por Tynan Sylvester</MainPageCredit>
 
   <!-- Credits -->
   <Credits_Design>Design</Credits_Design>
-  <Credits_Developers>Engineering</Credits_Developers>
-  <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
-  <Credit_GameArt>Art</Credit_GameArt>
-  <Credit_Testers>Testers</Credit_Testers>
-  <Credits_AdditionalDevelopment>Additional development</Credits_AdditionalDevelopment>
+  <Credits_Developers>Engenharia</Credits_Developers>
+  <Credit_MusicAndSound>Áudio</Credit_MusicAndSound>
+  <Credit_GameArt>Arte</Credit_GameArt>
+  <Credit_Testers>Testadores</Credit_Testers>
+  <Credits_AdditionalDevelopment>Desenvolvimento adicional</Credits_AdditionalDevelopment>
 
-  <Credits_TitleTester>Volunteer testers</Credits_TitleTester>
+  <Credits_TitleTester>Testadores voluntários</Credits_TitleTester>
 
   <Credits_TitleMods>Mods</Credits_TitleMods>
 
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <Credits_Localization_Anomaly>Anomaly localization</Credits_Localization_Anomaly><!-- text_todo -->
-  <Credits_LeadLocalizationProjectManager>Lead Localization Project Manager</Credits_LeadLocalizationProjectManager><!-- text_todo -->
-  <Credits_LocalizationProjectManager>Localization Project Manager</Credits_LocalizationProjectManager><!-- text_todo -->
-  <Credits_ProjectManager>Project Manager</Credits_ProjectManager><!-- text_todo -->
-  <Credits_Translator>Translator</Credits_Translator><!-- text_todo -->
+  <Credits_TitleLanguage>Idioma {0}</Credits_TitleLanguage>
+  <Credits_Localization_Anomaly>Localização de Anomaly</Credits_Localization_Anomaly><!-- text_todo -->
+  <Credits_LeadLocalizationProjectManager>Gerente de Projeto de Localização Principal</Credits_LeadLocalizationProjectManager><!-- text_todo -->
+  <Credits_LocalizationProjectManager>Gerente de Projeto de Localização</Credits_LocalizationProjectManager><!-- text_todo -->
+  <Credits_ProjectManager>Gerente de Projeto</Credits_ProjectManager><!-- text_todo -->
+  <Credits_Translator>Tradutor</Credits_Translator><!-- text_todo -->
   <Credits_Editor>Editor</Credits_Editor><!-- text_todo -->
-  <Credits_French>French</Credits_French><!-- text_todo -->
-  <Credits_Japanese>Japanese</Credits_Japanese><!-- text_todo -->
-  <Credits_Korean>Korean</Credits_Korean><!-- text_todo -->
-  <Credits_Polish>Polish</Credits_Polish><!-- text_todo -->
-  <Credits_Russian>Russian</Credits_Russian><!-- text_todo -->
-  <Credits_ChineseSimplified>Simplified Chinese</Credits_ChineseSimplified><!-- text_todo -->
-  <Credits_ChineseTraditional>Traditional Chinese</Credits_ChineseTraditional><!-- text_todo -->
+  <Credits_French>Francês</Credits_French><!-- text_todo -->
+  <Credits_Japanese>Japonês</Credits_Japanese><!-- text_todo -->
+  <Credits_Korean>Coreano</Credits_Korean><!-- text_todo -->
+  <Credits_Polish>Polonês</Credits_Polish><!-- text_todo -->
+  <Credits_Russian>Russo</Credits_Russian><!-- text_todo -->
+  <Credits_ChineseSimplified>Chinês Simplificado</Credits_ChineseSimplified><!-- text_todo -->
+  <Credits_ChineseTraditional>Chinês Tradicional</Credits_ChineseTraditional><!-- text_todo -->
 
   <!-- Credits - Currently unused -->
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
-  <Credit_TestLead>Test lead</Credit_TestLead>
-  <Credits_TitleCommunity>Community donations</Credits_TitleCommunity>
-  <Credit_ModDonation>Mod donors</Credit_ModDonation>
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+  <Credit_SpecialThanks>Agradecimentos especiais</Credit_SpecialThanks>
+  <Credit_TestLead>Líder de testes</Credit_TestLead>
+  <Credits_TitleCommunity>Doações da comunidade</Credits_TitleCommunity>
+  <Credit_ModDonation>Doadores de mods</Credit_ModDonation>
+  <Credit_WritingDonation>Doadores de textos</Credit_WritingDonation>
 
   <!-- Meta -->
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
-  <SkipCredits>Skip credits</SkipCredits>
+  <ThanksForPlaying>Obrigado por jogar!</ThanksForPlaying>
+  <SkipCredits>Pular créditos</SkipCredits>
 
 
 

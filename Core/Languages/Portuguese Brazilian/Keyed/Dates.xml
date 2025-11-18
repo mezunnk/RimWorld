@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClockTime>Time</ClockTime>
-  <ClockDate>Date</ClockDate>
-  <ClockYear>Year</ClockYear>
-  <DateReadoutTip>Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5}</DateReadoutTip>
 
-  <FullDate>{0} of {1}, {2}</FullDate>
+  <ClockTime>Hora</ClockTime>
+  <ClockDate>Data</ClockDate>
+  <ClockYear>Ano</ClockYear>
+  <DateReadoutTip>Dias passados desde sua chegada: {0}\nQuadrum atual: {4}\nEstação local: {2}\n\nO ano é dividido em 4 quadrums de {3} dias cada. Quadrums são os mesmos em todo lugar, enquanto as estações variam conforme o local.\n\nEstações locais para cada quadrum:\n{5}</DateReadoutTip>
+
+  <FullDate>{0} de {1}, {2}</FullDate>
   <ShortDate>{0} {1} {2}</ShortDate>
   <MonthYearDate>{0}, {1}</MonthYearDate>
-  <DateReadout>{0} of {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} of {1}</SeasonFullDate>
-  <WholeYear>Whole year</WholeYear>
+  <DateReadout>{0} de {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} de {1}</SeasonFullDate>
+  <WholeYear>Ano inteiro</WholeYear>
   
 </LanguageData>

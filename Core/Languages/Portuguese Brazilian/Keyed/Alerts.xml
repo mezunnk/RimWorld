@@ -1,199 +1,199 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Clique para ir ao problema</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskMinor>Risco de colapso menor</BreakRiskMinor>
+  <BreakRiskMajor>Risco de colapso maior</BreakRiskMajor>
+  <BreakRiskExtreme>Risco de colapso extremo</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Estes colonos estão de mau humor e podem ter um colapso mental menor a qualquer momento:\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Estes colonos estão de humor muito ruim e podem ter um colapso mental maior a qualquer momento:\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Estes colonos estão criticamente estressados e podem ter um colapso mental extremo (e possivelmente violento) a qualquer momento:\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Verifique a aba Necessidades desses colonos para ver o que está incomodando.\n\nPara melhorar o humor, faça refeições melhores, dê mais horas de lazer por dia e objetos de recreação melhores, coloque-os em ambientes bonitos, ofereça bebidas e cigarros, entre outros.</BreakRiskDescEnding>
 
-  <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.)</ColonistsNeedRescueDesc>
-  <ColonistsNeedRescueDescController>These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.)</ColonistsNeedRescueDescController>
+  <ColonistNeedsRescue>Colono precisa de resgate</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Colonos precisam de resgate</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Estes colonos estão incapacitados no chão:\n{0}\nEnvie outro colono para resgatá-los e levá-los de volta para a cama.\n\n(Para resgatar, selecione outro colono, clique com o botão direito no ferido e selecione Resgatar.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>Estes colonos estão incapacitados no chão:\n{0}\n\nEnvie outro colono para resgatá-los e levá-los de volta para a cama.\n\n(Para resgatar, selecione outro colono e pressione o botão de gatilho esquerdo no ferido e selecione Resgatar.)</ColonistsNeedRescueDescController>
 
-  <NeedDefenses>Need defenses</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefenses>Precisa de defesas</NeedDefenses>
+  <NeedDefensesDesc>Você está aqui há algum tempo e provavelmente já foi visto. Ataques de piratas começarão em breve.\n\nVocê deve preparar defesas, como sacos de areia ou armadilhas.</NeedDefensesDesc>
 
-  <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctor>Precisa de médico</NeedDoctor>
+  <NeedDoctorDesc>Estes colonos precisam de cuidados médicos, mas não há colonos saudáveis designados como médicos.\n{0}\n\nDesigne um colono saudável para o trabalho de Médico. Se não tratados, os ferimentos podem nunca cicatrizar corretamente e se tornar permanentes.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMiner>Precisa de minerador</NeedMiner>
+  <NeedMinerDesc>Você designou algumas rochas para serem mineradas, mas nenhum colono tem o trabalho de Mineração.\n\nDesigne um colono para o trabalho de Mineração.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWarden>Precisa de carcereiro</NeedWarden>
+  <NeedWardenDesc>Você tem um prisioneiro, mas nenhum colono tem o trabalho de Carcereiro.\n\nDesigne um colono para o trabalho de Carcereiro.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFood>Pouca comida</LowFood>
+  <LowFoodDesc>Você está perigosamente com pouca comida.\n\n    Barras completas de comida em estoque: {0}\n    Colonos e prisioneiros recebendo comida: {1}\n    Dias de comida em estoque: {2}\n\nCultive, compre, encontre ou cace mais comida.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Pouco remédio</LowMedicine>
+  <LowMedicineDesc>Você só tem {0} medicamentos restantes em estoque.\n\nCompre mais remédios com comerciantes.</LowMedicineDesc>
+  <NoMedicineDesc>Você não tem mais remédios em estoque.\n\nCompre mais remédios com comerciantes.</NoMedicineDesc>
   
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Precisa de camas para colonos</NeedColonistBeds>
+  <NeedColonistBedsDesc>Você tem mais colonos do que camas para colonos. Alguém ficará sem lugar para dormir.\n\nFaça mais camas ou mude uma cama de prisioneiro para colono.\n\nSe não tiver recursos, pontos de dormir são gratuitos e podem ser colocados instantaneamente.</NeedColonistBedsDesc>
   
-  <AlertColonistLeftUnburied>Colonist left unburied</AlertColonistLeftUnburied>
-  <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburied>Colono não enterrado</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>Um colono não foi enterrado.\n\nIsso pode afetar negativamente o humor dos colonos.</AlertColonistLeftUnburiedDesc>
 
-  <HunterLacksWeapon>Hunter lacks suitable weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Caçador sem arma adequada</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Um colono está designado como caçador, mas não possui uma arma de longo alcance adequada para caçar.\n\nEle não irá caçar até estar portando uma arma apropriada.\n\nOs seguintes colonos precisam de armas adequadas:</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Roupas esfarrapadas</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Estes colonos estão usando roupas esfarrapadas, o que os deixa tristes:\n{0}\n\nDê a eles roupas em melhor estado.\n\nVocê pode costurar roupas em uma bancada de alfaiate ou comprar de comerciantes.</AlertTatteredApparelDesc>
 
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Nudez incômoda</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Estes colonos estão nus e não gostam disso:\n{0}\n\nDê roupas a eles.\n\nVocê pode costurar roupas em uma bancada de alfaiate ou comprar de comerciantes.</AlertUnhappyNudityDesc>
 
-  <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n{0}\n\nGet them some food.</StarvationDesc>
+  <Starvation>Inanição</Starvation>
+  <StarvationDesc>Estes colonos estão passando fome:\n{0}\n\nDê comida a eles.</StarvationDesc>
 
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
-  <StarvationAnimalsDesc>These colony animals are starving:\n{0}\n\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimals>Animais famintos</StarvationAnimals>
+  <StarvationAnimalsDesc>Estes animais da colônia estão passando fome:\n{0}\n\nDê comida a eles.</StarvationAnimalsDesc>
 
-  <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <Exhaustion>Esgotamento</Exhaustion>
+  <ExhaustionDesc>Estes colonos estão exaustos e precisam descansar:\n{0}\n\nDê descanso a eles. Eles precisam de uma cama marcada para uso de colono. Certifique-se também de que não estão recrutados.</ExhaustionDesc>
 
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Precisa de funil de comida</NeedFoodHopper>
+  <NeedFoodHopperDesc>Você tem um dispensador de nutrientes sem funil ao lado.\n\nPara funcionar, o dispensador precisa de um funil adjacente cheio de comida crua.\n\nConstrua um funil ao lado do dispensador.</NeedFoodHopperDesc>
 
-  <NeedMealSource>Need meal source</NeedMealSource>
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSource>Precisa de fonte de refeição</NeedMealSource>
+  <NeedMealSourceDesc>Você não tem como preparar refeições adequadas a partir de comida crua.\n\nConstrua um fogão, fogueira ou dispensador de nutrientes.\n\n(Não pode estar em cela de prisão, senão os colonos não poderão usar.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need recreation variety</NeedJoySource>
-  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
-  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
-  <bored>bored</bored>
+  <NeedJoySource>Precisa de variedade de lazer</NeedJoySource>
+  <NeedJoySourceDesc>Há apenas {0} tipos diferentes de lazer disponíveis em {1}, mas no nível de expectativa atual ({2}), os colonos precisam de {3} tipos diferentes de lazer para ficarem satisfeitos. Ofereça variedade de lazer fornecendo um novo tipo diferente.\n\n{4}\n\n{5}\n\nNota: Você pode ver o tipo de lazer de qualquer item na página de estatísticas, acessível pelo botão 'i'.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Tipos de lazer disponíveis</AvailableRecreationTypes>
+  <MissingRecreationTypes>Tipos de lazer ausentes</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>No nível de expectativa atual ({0}), cada tolerância cai {1} por dia acordado. Recomenda-se ter {2} tipos de lazer.</CurrentExpectationsAndRecreation>
+  <bored>entediado</bored>
 
-  <Boredom>Boredom</Boredom>
-  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2}</BoredomDesc>
+  <Boredom>Tédio</Boredom>
+  <BoredomDesc>Essas pessoas estão precisando de lazer ou estão designadas para lazer, mas estão entediadas com todas as opções disponíveis:\n\n{0}\n\nOfereça mais variedade de lazer.\n\nTipos de lazer disponíveis para {PAWN_labelShort}:\n{2}</BoredomDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms.</NeedBatteriesDesc>
-  <NeedBatteriesResearchedDesc>Build a battery or two to guarantee sustained power.</NeedBatteriesResearchedDesc>
-  <NeedBatteriesNotResearchedDesc>Research batteries and build a couple to guarantee sustained power.</NeedBatteriesNotResearchedDesc>
+  <NeedBatteries>Precisa de baterias</NeedBatteries>
+  <NeedBatteriesDesc>Você tem um gerador solar ou eólico, mas não tem baterias. Você perderá energia sempre que o sol se pôr ou o vento parar.</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>Construa uma ou duas baterias para garantir energia contínua.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Pesquise baterias e construa algumas para garantir energia contínua.</NeedBatteriesNotResearchedDesc>
 
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Briguento com arma de fogo</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Um de seus colonos tem o traço de personalidade Briguento, mas está portando uma arma de fogo. Isso o deixará muito infeliz.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Usuário de escudo com arma de fogo</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Um de seus colonos está usando cinto de escudo e portando uma arma de fogo. Ele não poderá disparar através do escudo (exceto em alvos que já estejam encostados nele).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.)</NeedResearchProjectDesc>
+  <NeedResearchProject>Precisa de projeto de pesquisa</NeedResearchProject>
+  <NeedResearchProjectDesc>Você tem o equipamento para pesquisar, mas não selecionou um projeto.\n\n(Clique para abrir o menu de pesquisa.)</NeedResearchProjectDesc>
 
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} colonos ociosos</ColonistsIdle>
+  <ColonistsIdleDesc>Estes colonos estão vagando sem fazer nada:\n{0}\n\nVocê provavelmente deveria encontrar algo produtivo para eles fazerem.</ColonistsIdleDesc>
   
-  <CaravanIdle>Caravan idle</CaravanIdle>
-  <CaravanIdleDesc>These caravans are waiting for you to set their next destination:\n{0}</CaravanIdleDesc>
+  <CaravanIdle>Caravana parada</CaravanIdle>
+  <CaravanIdleDesc>Estas caravanas estão esperando você definir o próximo destino:\n{0}</CaravanIdleDesc>
 
-  <ColonistNeedsTreatment>Medical treatment needed</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
-  <ColonistNeedsTreatmentDescController>These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.)</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatment>Precisa de tratamento médico</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Estas pessoas precisam de tratamento médico. Sem isso, podem morrer dos ferimentos ou eles podem se tornar permanentes.\n{0}\n\nTrate-os levando-os para uma cama médica.\n\n(Primeiro, defina uma cama como médica. Depois, selecione o ferido e clique com o botão direito na cama médica para torná-lo paciente.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>Estas pessoas precisam de tratamento médico. Sem isso, podem morrer dos ferimentos ou eles podem se tornar permanentes.\n{0}\n\nTrate-os levando-os para uma cama médica.\n\n(Primeiro, defina uma cama como médica. Depois, selecione o ferido e pressione o gatilho esquerdo na cama médica para torná-lo paciente.)</ColonistNeedsTreatmentDescController>
 
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hipotermia</AlertHypothermia>
+  <AlertHypothermiaDesc>Estes colonos estão sofrendo de hipotermia:\n{0}\n\nCertifique-se de que suas roupas são adequadas para a estação e que os ambientes internos estão devidamente aquecidos.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pacientes aguardam operação médica</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Estes pacientes aguardam operação médica:\n{0}\n\nCertifique-se de ter todas as ferramentas médicas necessárias e um médico disponível.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>Fire!</FireInHomeArea>
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeArea>Fogo!</FireInHomeArea>
+  <FireInHomeAreaDesc>Há um incêndio na área doméstica.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>Emergência médica</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Pessoas estão em risco de morte devido a doença grave:\n{0}\n\nGaranta o melhor cuidado médico possível.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Pessoas estão em risco de morte devido a doença grave:\n{0}\n\nSe possível, considere amputar ou substituir membros infectados para manter os colonos vivos.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Sinuca precisa de espaço</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Uma de suas mesas de sinuca está ao lado de um obstáculo que impede o uso pelos colonos.\n\nA mesa de sinuca precisa de espaço livre ao redor em todos os lados para ser usada.</BilliardsNeedsSpaceDesc>
 
-  <ChessTablesNeedChairs>Chess table needs chairs</ChessTablesNeedChairs>
-  <ChessTablesNeedChairsDesc>One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once.</ChessTablesNeedChairsDesc>
+  <ChessTablesNeedChairs>Mesa de xadrez precisa de cadeiras</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>Uma de suas mesas de xadrez não tem cadeiras próximas.\n\nConstrua cadeiras ou bancos próximos para permitir o uso da mesa de xadrez. Até duas pessoas podem usar a mesa ao mesmo tempo.</ChessTablesNeedChairsDesc>
 
-  <PokerTablesNeedChairs>Poker table needs chairs</PokerTablesNeedChairs>
-  <PokerTablesNeedChairsDesc>One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once.</PokerTablesNeedChairsDesc>
+  <PokerTablesNeedChairs>Mesa de pôquer precisa de cadeiras</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>Uma de suas mesas de pôquer não tem cadeiras próximas.\n\nConstrua cadeiras ou bancos próximos para permitir o uso da mesa de pôquer. Até oito pessoas podem usar a mesa ao mesmo tempo.</PokerTablesNeedChairsDesc>
 
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Caçador com escudo e arma de fogo</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Um de seus caçadores está usando uma arma de fogo e um cinto de escudo, o que impede disparos à distância.\n\nEle não poderá caçar até que o escudo seja removido.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Precisa de roupas quentes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Pelo menos {0} dos seus colonos ficarão sem roupas quentes quando o frio chegar.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Todos os seus colonos ficarão sem roupas quentes quando o frio chegar.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>A temperatura externa vai chegar a {0}.\n\nVocê pode costurar roupas quentes na bancada de alfaiate ou comprá-las de comerciantes.</NeedWarmClothesDesc2>
 
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Caravana imóvel</ImmobileCaravan>
+  <ImmobileCaravanDesc>Uma de suas caravanas está imóvel porque está carregando peso demais.\n\nVocê pode torná-la móvel novamente abandonando alguns itens na aba ITENS.</ImmobileCaravanDesc>
 
-  <BuildingCantBeUsedRoofed>Building unusable due to roof</BuildingCantBeUsedRoofed>
-  <BuildingCantBeUsedRoofedDesc>One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofed>Construção inutilizável devido ao telhado</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>Uma ou mais de suas construções só podem ser usadas sem telhado, mas há um telhado sobre elas. Elas não poderão ser usadas até que o telhado seja removido.</BuildingCantBeUsedRoofedDesc>
 
-  <AlertHeatstroke>Heatstroke</AlertHeatstroke>
-  <AlertHeatstrokeDesc>The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.</AlertHeatstrokeDesc>
+  <AlertHeatstroke>Insolação</AlertHeatstroke>
+  <AlertHeatstrokeDesc>As seguintes pessoas estão sofrendo de insolação:\n{0}\n\nLeve-as para um local mais fresco. Você pode resfriar ambientes com resfriadores passivos ou elétricos. Espaços subterrâneos profundos também são naturalmente frescos, se isolados do exterior por uma porta.</AlertHeatstrokeDesc>
 
-  <QuestPartMoodBelowThreshold>Guest unhappy</QuestPartMoodBelowThreshold>
-  <QuestPartMoodBelowThresholdDesc>The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThreshold>Hóspede infeliz</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>A missão {0} exige que você mantenha essa pessoa de bom humor. No entanto, o humor dela está ruim. Tome alguma atitude para melhorar o humor:\n{1}</QuestPartMoodBelowThresholdDesc>
   
-  <QuestPartShuttleLeaveDelay>Shuttle leaving in {0}</QuestPartShuttleLeaveDelay>
-  <QuestPartShuttleLeaveDelayDesc>The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2}</QuestPartShuttleLeaveDelayDesc>
-  <QuestPartShuttleLeaveDelayDescHidden>The shuttle will leave in {0}.</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelay>Nave parte em {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>A nave partirá em {1}. A missão {0} exige que você embarque as seguintes pessoas ou itens antes da partida:\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>A nave partirá em {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
-  <QuestPartShuttleArriveDelay>Shuttle arriving in {0}</QuestPartShuttleArriveDelay>
-  <QuestPartShuttleArriveDelayDesc>A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2}</QuestPartShuttleArriveDelayDesc>
-  <QuestPartShuttleArriveDelayDescHidden>A shuttle will arrive in {0}.</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelay>Nave chega em {0}</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>Uma nave chegará em {1}. A missão {0} exige que você embarque as seguintes pessoas ou itens antes da partida:\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>Uma nave chegará em {0}.</QuestPartShuttleArriveDelayDescHidden>
 
-  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument>
-  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonument>Monumento será destruído</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>Você construiu uma estrutura proibida dentro de um monumento. O monumento será considerado destruído em {0}.</DisallowedBuildingInsideMonumentDesc>
 
-  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
-  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdown>Ativador de contagem regressiva {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>Há um ativador de contagem regressiva funcionando, preparando-se para despertar mecanóides próximos.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} ativadores de contagem regressiva</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>Há {0} ativadores de contagem regressiva funcionando, preparando-se para despertar mecanóides próximos.</ActivatorCountdownDescMultiple>
 
-  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon>
-  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc>
+  <QuestExpiresSoon>Missão expira em {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>A missão '{0}' expira em {1}.</QuestExpiresSoonDesc>
 
-  <AlertAnimalFilth>Animal filth</AlertAnimalFilth>
-  <AlertAnimalFilthDesc>A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0}</AlertAnimalFilthDesc>
+  <AlertAnimalFilth>Sujeira animal</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>Um animal que produz sujeira está dentro de casa em um piso limpo.\n\nAnimais produzem muita sujeira ao se moverem em pisos normais. Mantenha esses animais do lado de fora ou em palha, onde produzem menos sujeira.\n\nVocê pode ver a taxa de sujeira nas estatísticas do animal, clicando no botão 'i'.\n\nEstes animais são o problema:\n{0}</AlertAnimalFilthDesc>
 
-  <AlertAnimalPenNeeded>Pen needed</AlertAnimalPenNeeded>
-  <AlertAnimalPenNeededDesc>Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away.</AlertAnimalPenNeededDesc>
-  <AlertAnimalPenNeededNoHandlers>You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type.</AlertAnimalPenNeededNoHandlers>
-  <AlertAnimalPenNeededDescExplanation>Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals.</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeeded>Precisa de curral</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>Alguns de seus animais domesticados são andarilhos. Se não forem mantidos em um curral ou amarrados a um ponto de amarração, eles irão embora.</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>Você não tem tratadores para levar os animais ao curral.\n\nDesigne um colono para o trabalho de Tratador.</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>Crie um curral construindo um marcador de curral em uma área cercada, barricada ou murada. Selecione o marcador para ver quais animais ele aceita e quantos pode suportar.\n\nSeus tratadores levarão os animais automaticamente.\n\nO curral precisa de uma porta ou portão para entrada dos animais.</AlertAnimalPenNeededDescExplanation>
   
-  <AlertAnimalPenNotEnclosed>Pen not enclosed</AlertAnimalPenNotEnclosed>
-  <AlertAnimalPenNotEnclosedDesc>An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again.</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosed>Curral não cercado</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>Um marcador de curral não está cercado.\n\nCerce o curral usando cercas, barricadas, portões, paredes ou portas para evitar que os animais saiam.\n\nSe você só tiver marcadores de curral abertos, seus tratadores ainda podem trazer os animais de volta, mas isso terá que ser repetido de tempos em tempos.</AlertAnimalPenNotEnclosedDesc>
 
-  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} in animal pen</AlertPredatorInAnimalPen>
-  <AlertPredatorInAnimalPenDesc>A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves.</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} no curral</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>Um(a) {ANIMAL_labelShort} predador(a) entrou no curral.\n\nEle pode decidir caçar seus animais.\n\nVocê pode matá-lo ou esperar que ele vá embora.</AlertPredatorInAnimalPenDesc>
 
-  <AlertAnimalIsRoaming>Animal wandering away</AlertAnimalIsRoaming>
-  <AlertAnimalIsRoamingDesc>Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0}</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoaming>Animal vagando</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>Alguns de seus animais domesticados começaram a vagar. Se chegarem à borda do mapa, eventualmente irão embora.\n\nSe você tiver um curral cercado, seus tratadores podem trazê-los de volta. Animais em curral não vagam.\n\nOs seguintes animais estão vagando:\n{0}</AlertAnimalIsRoamingDesc>
 
-  <AlertPennedAnimalHungry>Hungry pen animals</AlertPennedAnimalHungry>
-  <AlertPennedAnimalHungryDesc>Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0}</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungry>Animais do curral com fome</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>Alguns dos seus animais no curral estão com fome.\n\nSelecione o marcador de curral e use a aba Comida para ver mais detalhes.\n\nAnimais que comem grama podem precisar de um curral maior. Outros podem precisar de feno ou comida similar em um estoque.\n\nOs seguintes animais estão com fome:\n{0}</AlertPennedAnimalHungryDesc>
 
-  <AlertHitchedAnimalHungryNoFood>Hungry hitched animal</AlertHitchedAnimalHungryNoFood>
-  <AlertHitchedAnimalHungryNoFoodDesc>Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFood>Animal amarrado com fome</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>Alguns animais amarrados estão com fome. Pode não haver comida adequada ao alcance deles.\n\nLeve comida até eles ou remova o ponto de amarração para que possam procurar comida sozinhos.\n\nOs seguintes animais amarrados estão com fome:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
-  <AlertTimedRaidsArrivingIn>Raids arriving in {0}</AlertTimedRaidsArrivingIn>
-  <AlertTimedRaidsArrivingInDesc>Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0}</AlertTimedRaidsArrivingInDesc>
-  <AlertTimedRaidsArrivingAt>Arriving at {0} in {1}</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingIn>Invasores chegando em {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>Inimigos foram atraídos para os seguintes locais e começarão a chegar em breve:\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>Chegando em {0} em {1}</AlertTimedRaidsArrivingAt>
 
-  <FactionWillBecomeHostileIfNotLeavingWithin>Faction will become hostile if you stay</FactionWillBecomeHostileIfNotLeavingWithin>
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>These factions will become hostile if you stay for longer at their settlement or outpost:\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Facção ficará hostil se você ficar</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Essas facções ficarão hostis se você permanecer mais tempo no assentamento ou posto avançado delas:\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
-  <AlertMinifiedTreeAboutToDie>{0} trees dying</AlertMinifiedTreeAboutToDie>
-  <AlertMinifiedTreeAboutToDieDesc>{0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees.</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDie>{0} árvores morrendo</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>{0} árvores extraídas vão morrer em menos de um dia. Isso deixará alguns colonos infelizes por causa de suas crenças.\n\nVocê pode evitar isso replantando as árvores.</AlertMinifiedTreeAboutToDieDesc>
 
-  <NeedResearchBench>Need research bench</NeedResearchBench>
-  <NeedResearchBenchDesc>You have an active research project '{0}'. This project requires you to build {1}.</NeedResearchBenchDesc>
+  <NeedResearchBench>Precisa de bancada de pesquisa</NeedResearchBench>
+  <NeedResearchBenchDesc>Você tem um projeto de pesquisa ativo '{0}'. Este projeto exige que você construa {1}.</NeedResearchBenchDesc>
   
 </LanguageData>
