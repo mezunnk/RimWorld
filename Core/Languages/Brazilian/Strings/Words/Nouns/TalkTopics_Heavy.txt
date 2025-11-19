@@ -1,138 +1,138 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿infância
+medos de infância
+amores de infância
+experiências de infância
+vida
+desafios da vida
+recompensas da vida
+memórias da vida
+objetivos de vida
+arrependimentos da vida
+estresses da vida
+a decepção da vida
+a falta de sentido da vida
+a aleatoriedade da vida
+esperança
+maturidade
+idade adulta
+crianças
+medo
+pesadelos
+sucesso
+a moralidade da pobreza
+a moralidade da riqueza
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+morte
+a inevitabilidade da morte
+o alívio da morte
+vida após a morte
+entes queridos falecidos
+amigos ausentes
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+caridade
+filantropia
+ajuda aos oprimidos
+ajuda aos doentes
+ajuda aos pobres
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+alienígenas
+contato alienígena
+conspirações alienígenas
+a ausência de alienígenas
+conspirações governamentais
+conspirações religiosas
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+as estrelas
+outros planetas
+este planeta
+a escala do universo
+a idade do universo
+o destino do universo
+a expansão da humanidade pelo universo
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+primitivismo
+ludismo
+tecnologia
+inteligência das máquinas
+inteligência artificial
+tecnologia da computação
+tecnologia de armas
 
-society
-morality
-freedom
-law
-government
-rights
-history
+sociedade
+moralidade
+liberdade
+lei
+governo
+direitos
+história
 terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
-tribalism
-ingroup preference
+terrorismo
+política
+honra
+questões sociais
+o mercado
+liberdade
+autoritarismo
+anarquia
+injustiça
+justiça
+verdade
+tribalismo
+preferência pelo grupo
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+filosofia
+realidade
+cultura
+diferenças culturais
+choque cultural
+natureza humana
+humanidade
+religião
+o sentido da vida
+identidade
+eternidade
+monismo
+dualismo
+epistemologia
+honestidade
+liberdade de expressão
+etnia
+liberalismo
+a inevitabilidade do sofrimento
+a natureza do conhecimento
+a natureza da emoção
 
-fate
-the fate of mankind
-the fate of the universe
+destino
+o destino da humanidade
+o destino do universo
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+arte
+movimentos artísticos
+ambição artística
+estética humana
+instintos artísticos
+história da arte
 
-love
+amor
 romance
-sexuality
-sexual morality
-masculinity
-femininity
+sexualidade
+moralidade sexual
+masculinidade
+feminilidade
 
-self-replicating machines
-generation ships
-Von Neumann probes
+máquinas autorreplicantes
+naves geracionais
+sondas de Von Neumann
 
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
-rimworlds
-coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+arcotecnologia
+arcotechs
+personas de máquina
+propulsor Johnson-Tanaka
+Ordo Historia
+velha Terra
+mundos da orla
+mundos centrais
+criptossono
+túmulos de criptossono
+mecanoides
+canibalismo

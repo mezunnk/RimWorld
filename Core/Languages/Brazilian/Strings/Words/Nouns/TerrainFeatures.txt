@@ -1,52 +1,52 @@
-﻿plain
-expanse
-grassland
-plateau
-prairie
-desert
-field
+﻿planície
+vasta extensão
+campo gramado
+planalto
+pradaria
+deserto
+campo
 
-forest
-tree
-thicket
-bramble
+floresta
+árvore
+moita
+arbusto espinhoso
 
-boulder
-rock
-quarry
-stone
+pedregulho
+rocha
+pedreira
+pedra
 
-mountain
-hill
+montanha
+colina
 mesa
-cliff
-bluff
-crag
-ridge
-valley
-canyon
-gorge
+penhasco
+escarpa
+penedo
+crista
+vale
+desfiladeiro
+garganta
 
-oasis
-meadow
+oásis
+prado
 
-cave
+caverna
 
-river
-stream
-creek
-brook
+rio
+riacho
+regato
+arroio
 delta
-inlet
-sound
-cove
+enseada
+canal
+enseada
 
-lake
-ocean
-pond
-basin
-lagoon
-pit
-swamp
-tarpit
-mire
+lago
+oceano
+poço
+bacia
+laguna
+fosso
+pântano
+poço de piche
+brejo

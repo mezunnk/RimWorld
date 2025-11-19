@@ -1,69 +1,69 @@
-﻿//Normal outlanders
-farmer
-villager
-miller
-smith
-brewer
-weaver
-cook
-beggar
-town guard
-town councilor
-baker
-tailor
-elder
-gunsmith
-blacksmith
-fletcher
-thresher
-thatcher
-carpenter
-trader
+﻿//Colonos comuns
+fazendeiro
+aldeão
+moleiro
+ferreiro
+cervejeiro
+tecelão
+cozinheiro
+mendigo
+guarda da cidade
+vereador
+padeiro
+alfaiate
+ancião
+armeiro
+ferreiro
+flecheiro
+trilhador
+telhador
+carpinteiro
+comerciante
 
-//Exotic outlanders
-surgeon
-doctor
-explorer
-adventurer
-drunkard
-priest
-cleric
-smuggler
-comedian
-teacher
-acrobat
-clown
-actor
-artist
-boxer
-chemist
-dancer
-fortune teller
-gardener
-maid
-hypnotist
-jeweler
-poet
-cowboy
-singer
-philosopher
-gunslinger
-sheriff
+//Colonos exóticos
+cirurgião
+médico
+explorador
+aventureiro
+bêbado
+padre
+clérigo
+contrabandista
+comediantes
+professor
+acrobata
+palhaço
+ator
+artista
+boxeador
+químico
+dançarino
+vidente
+jardineiro
+empregada
+hipnotizador
+joalheiro
+poeta
+caubói
+cantor
+filósofo
+atirador
+xerife
 
-//Tech
-archaeologist
+//Tecnológicos
+arqueólogo
 hacker
-planetologist
-politician
-historian
-writer
-engineer
-dentist
-lawyer
+planetologista
+político
+historiador
+escritor
+engenheiro
+dentista
+advogado
 
-//Tribals
-chief
-warrior
-archer
-witch doctor
-shaman
+//Tribais
+chefe
+guerreiro
+arqueiro
+médico-bruxo
+xamã

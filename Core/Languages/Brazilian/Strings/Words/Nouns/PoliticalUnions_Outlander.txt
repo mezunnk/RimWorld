@@ -1,19 +1,20 @@
 ﻿//Common with tribals
-union
-nation
-confederacy
-confederation
-alliance
-covenant
-treaty
-pact
-coalition
+
+união
+nação
+confederação
+confederação
+aliança
+pacto
+tratado
+pacto
+coalizão
 
 //Outlander specific (different from empire)
-federation
-league
-compact
-accord
-concord
-amalgamation
-unification
+federação
+liga
+pacto
+acordo
+concórdia
+amalgamação
+unificação

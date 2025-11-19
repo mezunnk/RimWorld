@@ -1,17 +1,18 @@
 ﻿
-scyther
-lancer
-centipede
 
-mechanoid
-robot
-automaton
+ceifador
+lanceiro
+centopéia
+
+mecanoide
+robô
+automato
 drone
-combat drone
-serving bot
-utility bot
-sexbot
-guard bot
+drone de combate
+robô de serviço
+robô utilitário
+robô sexual
+robô de guarda
 
-machine persona avatar
-archotech projection
+avatar de persona de máquina
+projeção archotech

@@ -1,96 +1,97 @@
-﻿clothes
-clothing choices
-fashion knowledge
-stylishness
+﻿
+roupas
+escolhas de vestuário
+conhecimento de moda
+estilo
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
-facial hair
-leg hair
-face
-eyes
-nose
-ears
-jawline
-forehead
-hands
-body
-muscles
+aparência
+aparência
+altura
+peso
+cabelo
+estilo de cabelo
+barba
+pelos nas pernas
+rosto
+olhos
+nariz
+orelhas
+mandíbula
+testa
+mãos
+corpo
+músculos
 
-voice
-way of speaking
-accent
+voz
+modo de falar
+sotaque
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
-animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+habilidade de tiro
+habilidade de combate corpo a corpo
+habilidade social
+habilidade agrícola
+habilidade médica
+habilidade de domar animais
+habilidade culinária
+habilidade de construção
+habilidade de mineração
+habilidade artística
+habilidade de artesanato
+habilidade intelectual
 
-skills
-abilities
-intelligence
-judgment
-brainpower
-emotional stability
-self-control
-usefulness
-attitude
-way of walking
-way of thinking
-fighting methods
-learning ability
-diet
-eating habits
-food preferences
-relationship status
-age
-value as a human
-sense of responsibility
-sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
-kindness
-eloquence
-broad-mindedness
-charm
-sincerity
-open-mindedness
+habilidades
+habilidades
+inteligência
+discernimento
+capacidade mental
+estabilidade emocional
+autocontrole
+utilidade
+atitude
+modo de andar
+modo de pensar
+métodos de luta
+capacidade de aprendizado
+dieta
+hábitos alimentares
+preferências alimentares
+status de relacionamento
+idade
+valor como ser humano
+senso de responsabilidade
+senso de dever
+honra
+honestidade
+coragem
+opiniões
+crenças
+ideias
+sonhos e esperanças
+ambições
+hábitos pessoais
+higiene pessoal
+resistência
+personalidade
+classe
+cultura
+preferências recreativas
+pontualidade
+generosidade
+bravura
+lealdade
+honestidade
+bondade
+eloquência
+mente aberta
+carisma
+sinceridade
+mente aberta
 
-origins
-parents
-grandparents
-friends
-family
-family background
-lovers
+origem
+pais
+avós
+amigos
+família
+histórico familiar
+amantes
 

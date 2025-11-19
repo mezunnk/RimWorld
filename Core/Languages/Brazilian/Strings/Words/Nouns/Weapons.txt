@@ -1,60 +1,61 @@
-﻿dagger
-blade
-shiv
-razor
-scythe
-sickle
+﻿
 
-sword
+lâmina
+faca improvisada
+navalha
+foice
+falcate
+
+espada
 sabre
-rapier
+florete
 claymore
-scimitar
+cimitarra
 
-spear
-pike
+lança
+pique
 ikwa
 lance
-bayonet
-javelin
+baioneta
+dardo
 
-axe
+machado
 tomahawk
-hatchet
+machadinha
 
-whip
+chicote
 
-saw
+serra
 
-club
-hammer
-sledgehammer
-mace
+clava
+martelo
+marreta
+maça
 
-knuckleduster
-gauntlet
+soqueira
+manopla
 
-dart
-arrow
+dardo
+flecha
 
-crossbow
-bow
+besta
+arco
 
-gun
-pistol
+arma de fogo
+pistola
 rifle
-shotgun
-revolver
+espingarda
+revólver
 
-cannon
-mortar
-howitzer
+canhão
+morteiro
+obuseiro
 
-bomb
-nuke
-landmine
-grenade
+bomba
+bomba nuclear
+mina terrestre
+granada
 
-missile
-rocket
+míssil
+foguete
 

@@ -1,16 +1,17 @@
 ﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-league
-covenant
-treaty
-pact
-coalition
+
+união
+nação
+confederação
+confederação
+aliança
+liga
+pacto
+tratado
+pacto
+coalizão
 
 //Tribe specific
-kinship
-people
-tribe
+parentesco
+povo
+tribo
